@@ -13,4 +13,8 @@ class Field {
     print() {
         console.log(field);
     }
+
+    generateField() {
+        
+    }
 }
