@@ -7,6 +7,10 @@ const pathCharacter = '*';
 
 class Field {
     constructor(field) {
-        this.field= field;
+        this.field = field;
+    }
+
+    print() {
+        console.log(field);
     }
 }
