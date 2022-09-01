@@ -9,12 +9,13 @@ class Field {
     constructor(field) {
         this.field = field;
     }
+    
+    generateField() {
+        
+    }
 
     print() {
         console.log(field);
     }
 
-    generateField() {
-        
-    }
 }
